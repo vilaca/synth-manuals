@@ -1,16 +1,16 @@
 # synth manuals
 
-Synthesizer, FX manuals
+Synthesizer, fx manuals
 
-### Alesis [-->](../../tree/master/alesis/)
-### Behringer [-->](../../tree/master/behringer/)
-### Elektron [-->](../../tree/master/elektron/)
-### Eventide [-->](../../tree/master/eventide/)
-### FMR [-->](../../tree/master/fmr/)
-### Novation [-->](../../tree/master/novation/)
-### Roland [-->](../../tree/master/roland/)
+[Alesis](../../tree/master/alesis/),
+[Behringer](../../tree/master/behringer/),
+[Elektron](../../tree/master/elektron/),
+[Eventide](../../tree/master/eventide/),
+[FMR](../../tree/master/fmr/),
+[Novation](../../tree/master/novation/),
+[Roland](../../tree/master/roland/)
 
-# video tutorials
+Video tutorials
 
 | Product        | URL                                         |
 | -------------- |:--------------------------------------------|

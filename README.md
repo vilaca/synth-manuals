@@ -12,8 +12,8 @@ Synthesizer, fx manuals
 
 Video tutorials
 
-| Product        | Bass Station 2               | Octatrack Mk2                | Syntatkt                     | 
-| -------------- |:----------------------------:|:----------------------------:|:----------------------------:| 
-| Clips          | https://youtu.be/rgKgpdyzeUU | https://youtu.be/bbowNJCT1dg | https://youtu.be/mqGnKfhVhZ8 |
-|                |                              | https://youtu.be/VK8VXybQy_0 |                              |
+| Product        | Bass Station 2               | Octatrack Mk2                | Syntatkt                     | TR-6S |
+| -------------- |:----------------------------:|:----------------------------:|:----------------------------:|:-----:|
+| Clips          | https://youtu.be/rgKgpdyzeUU | https://youtu.be/bbowNJCT1dg | https://youtu.be/mqGnKfhVhZ8 | https://youtu.be/lw1v8b7PHtc |
+|                |                              | https://youtu.be/VK8VXybQy_0 |                              ||
 

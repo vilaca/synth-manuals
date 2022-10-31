@@ -4,6 +4,7 @@ Synthesizer, fx manuals
 
 [Alesis](../../tree/master/alesis/),
 [Behringer](../../tree/master/behringer/),
+[Boss](../../tree/master/boss/),
 [Elektron](../../tree/master/elektron/),
 [Eventide](../../tree/master/eventide/),
 [FMR](../../tree/master/fmr/),

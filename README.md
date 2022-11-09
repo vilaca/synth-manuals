@@ -1,6 +1,6 @@
 # synth manuals
 
-Synthesizer, fx manuals
+Synthesizer, mixer, fx manuals
 
 [Alesis](../../tree/master/alesis/),
 [Behringer](../../tree/master/behringer/),

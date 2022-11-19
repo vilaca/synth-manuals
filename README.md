@@ -13,14 +13,15 @@ Synthesizer, mixer, fx manuals
 
 ## Connections
 
-|                  | Input      | Output            |
-|:-----------------|:----------:|:-----------------:|
-| Eventide Space   | Unbalanced | Unbalanced        |
-| Elektron Syntakt |            | Balanced          |
-| FMR RNLA         | Unbalanced | Balanced          |    
-| Novation BS2     |            | Unbalanced        |
-| Roland JD-XA     |            | Balanced          |
-| Waldorf µWave 2  |            | Unbalanced(?)     |
+|                     | Input      | Output            | Inserts                |
+|:--------------------|:----------:|:-----------------:|:----------------------:|
+| Behringer XQ2442USB | Unbalanced | Unbalanced        | Tip=Output,Ring=Return
+| Eventide Space      | Unbalanced | Unbalanced        |
+| Elektron Syntakt    |            | Balanced          |
+| FMR RNLA            | Unbalanced | Balanced          |    
+| Novation BS2        |            | Unbalanced        |
+| Roland JD-XA        |            | Balanced          |
+| Waldorf µWave 2     |            | Unbalanced(?)     |
 
 
 ## Video tutorials

@@ -1,4 +1,4 @@
-# synth manuals
+# Synth manuals
 
 Synthesizer, mixer, fx manuals
 
@@ -11,17 +11,19 @@ Synthesizer, mixer, fx manuals
 [Novation](../../tree/master/novation/),
 [Roland](../../tree/master/roland/)
 
-Connections
+## Connections
 
 |                  | Input      | Output            |
 |:-----------------|:----------:|:-----------------:|
 | Eventide Space   | Unbalanced | Unbalanced        |
+| Elektron Syntakt |            | Balanced          |
+| FMR RNLA         | Unbalanced | Balanced          |    
 | Novation BS2     |            | Unbalanced        |
 | Roland JD-XA     |            | Balanced          |
-| Elektron Syntakt |            | Balanced          |
+| Waldorf µWave 2  |            | Unbalanced(?)     |
 
 
-Video tutorials
+## Video tutorials
 
 | Product        | Bass Station 2               | Octatrack Mk2                | Syntatkt                     | TR-6S |
 | -------------- |:----------------------------:|:----------------------------:|:----------------------------:|:-----:|

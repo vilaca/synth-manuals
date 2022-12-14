@@ -12,6 +12,7 @@ Synthesizer, mixer, fx manuals
 [Klark Teknik](../../tree/master/klark-teknik/),
 [Novation](../../tree/master/novation/),
 [Roland](../../tree/master/roland/)
+[Thermionic Culture](../../tree/master/thermionic-culture/)
 
 ## Connections
 

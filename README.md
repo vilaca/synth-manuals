@@ -12,7 +12,8 @@ Synthesizer, mixer, fx manuals
 [FMR](../../tree/master/fmr/),
 [Klark Teknik](../../tree/master/klark-teknik/),
 [Novation](../../tree/master/novation/),
-[Roland](../../tree/master/roland/)
+[Roland](../../tree/master/roland/),
+[Symetrix](../../tree/master/symetrix/),
 [Thermionic Culture](../../tree/master/thermionic-culture/)
 
 ## Connections

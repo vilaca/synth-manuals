@@ -12,10 +12,12 @@ Synthesizer, mixer, fx manuals
 [Eventide](../../tree/master/eventide/),
 [FMR](../../tree/master/fmr/),
 [Klark Teknik](../../tree/master/klark-teknik/),
+[M-Audio](../../tree/master/m-audio/),
 [Novation](../../tree/master/novation/),
 [Roland](../../tree/master/roland/),
 [Symetrix](../../tree/master/symetrix/),
 [Thermionic Culture](../../tree/master/thermionic-culture/)
+[Waldorf](../../tree/master/waldorf/)
 
 ## Connections
 
@@ -27,6 +29,6 @@ Synthesizer, mixer, fx manuals
 | FMR RNLA            | Unbalanced | Balanced          |    
 | Novation BS2        |            | Unbalanced        |
 | Roland JD-XA        |            | Balanced          |
-| Waldorf µWave 2     |            | Unbalanced(?)     |
+| Waldorf µWave 2     |            | Unbalanced        |
 
 

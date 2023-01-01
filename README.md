@@ -7,6 +7,7 @@ Synthesizer, mixer, fx manuals
 [Behringer](../../tree/master/behringer/),
 [Boss](../../tree/master/boss/),
 [DBX](../../tree/master/dbx/),
+[Drawmer](../../tree/master/drawmer/),
 [Elektron](../../tree/master/elektron/),
 [Eventide](../../tree/master/eventide/),
 [FMR](../../tree/master/fmr/),

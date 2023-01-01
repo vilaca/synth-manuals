@@ -1,0 +1,274 @@
+Sounds
+------
+
+A Trip       WMF
+CS-80        WMF
+Arpsono       WD
+97 Wave Ride  DN
+Atmosphere 2  DN
+Switch Me    WMF
+chaOSC         T
+Ammalog      W&W
+Ping Pad     WMF
+Noisefloor     S
+Clip-n-zip    DN
+Paracelsus   WMF
+Saw it again WMF
+PluckPad      DN
+Stenzel's Chor S
+Rhythm Pad   WMF
+Phase Lock 1 W&W
+Bigballs      DN
+BoxStrings   WMF
+Unisono      WMF
+HP-404         S
+Be careful !   T
+Q-Wheels RAVE RP
+RingArp      WMF
+Ben Hur        T
+Shape it     WMF
+Electro B    WMF
+Trash-Box-303  S
+TanzBein-303   S
+Dork Acid !    S
+wArp         WMF
+StarP        WMF
+Ongaku         T
+Talking Arp    T
+Roundabout     T
+Rhythm Import  T
+SO4MA          T
+Problems ???   T
+Arp Evolution  T
+On the Run     T
+Ahrtal Express T
+Da Mals      WMF
+Meisterbussi WMF
+<Q)  BASS 2     
+WAPE BASE     RP
+Tec          WMF
+Super Fat    WMF
+HolloSound    DN
+Syntar       WMF
+Ambient       DN
+Sqr Keys      WD
+SynthFlute   WMF
+Classic Solo  WD
+Saw Keys     WMF
+Rude Spaces   DN
+Gow2          DN
+Gow3          DN
+Sine Lead    WMF
+Filter Lead  WMF
+Hauchend     WMF
+Fat Lead     WMF
+Raver's Ride   T
+PolyMoogy    WMF
+Poly Synth   WMF
+PolySynth2   WMF
+Tom's Brass   TK
+Brassy        DN
+Synconie 2   WMF
+FilterSaw    WMF
+KorgySound    DN
+CS!           DN
+Obie SEM      DN
+PluckPad 2    DN
+SyndiCat     WMF
+PolyTics     WMF
+Sirius organ  GB
+Sbrass        GB
+Blade Runner  GB
+Tutench-Amun   T
+Contrast       T
+Electro Church T
+Cassiopeia   WMF
+Freq Shifter WMF
+FM Keys      WMF
+Fuzz Chords  WMF
+K E M E L      T
+Noogy         DN
+Gate Piano   WMF
+Waveformer     T
+Gow           DN
+Sidebands     DN
+Lotus Flower  GB
+Cat Inch "N"   T
+Newton       WMF
+PhasingClavi WMF
+Overdrive PlkWMF
+PPG Plucked  WMF
+Sync Keys 1   WD
+Ring Pluck   WMF
+Spell: P P G!WMF
+PPG Vibes    WMF
+Gibran        GB
+Clipar        WD
+Stuttgart    WMF
+Fantasted    WMF
+Reverbed     WMF
+Texture2      DN
+Oww! 2        DN
+Subtitles    WMF
+The Caretaker  T
+D Bells      WMF
+Baligong      DN
+MWave2 Bells WMF
+VeloBell      DN
+Bali          DN
+Crisdrum      GB
+Airy Pad      DN
+Single Trig PadS
+HollowSquare WMF
+Oxy Rhythm   WMF
+Wavetrack 1  WMF
+Hemd aus !!!   T
+Da Gyls        T
+Sarafina       T
+Pad          WMF
+Ocean        WMF
+Oww!          DN
+Bland         DN
+Full Moon      T
+DistoPad     WMF
+Quiet Earth    T
+Deep Sync    WMF
+Everlast       T
+SawPWM Str   WMF
+Pulpad        DN
+DoubleSine   WMF
+Space Night    T
+Artificial     T
+FallingAngel WMF
+Microsweep I  GB
+Always Ultra   T
+Fase  PAD     RP
+Good old Times T
+Jupiter      WMF
+Carpet        GB
+Fat Pad      WMF
+WarmPad       DN
+Solina       WMF
+JX10P StringsWMF
+Primitive Pad  S
+SOFT PAD I    RP
+SOFT PAD II   RP
+Wave Choir   WMF
+Hmmm Pad     WMF
+Female Choir WMF
+MelloChoir   WMF
+Vocode 'em   WMF
+Plain Choir  WMF
+Rezzz         DN
+Hmxpad        DN
+Wavepad       DN
+Doi!          DN
+Deep Spaces   DN
+Organic Wave   T
+Texture       DN
+Plastochinon   T
+Harmonicsweep DN
+Phasey        DN
+Glassydrone   DN
+Dusty Drone   DN
+Bad UFO 1     DN
+Bad UFO 2     DN
+Subtil         T
+Phase Swell  WMF
+Come In      WMF
+Bottled Toys   S
+HP Laserjet    S
+HP R'us        S
+Hi Pads      WMF
+Moon Bass     GB
+Pulse Bass   WMF
+It's Acid !    T
+Moog's Bass  WMF
+Subwoof       DN
+B-Asskick      T
+Disco Bass   WMF
+SPY 923Bass  DN
+Phunk that !   T
+Jarre Bass   WMF
+More Mogue    DN
+Bass Line  1 WMF
+Moog Source   DN
+Moog 1        DN
+Hollow Bass  WMF
+RudefuzzBass  DN
+12dB Acid    WMF
+18dB Acid    WMF
+Trigger Bass WMF
+JUNO-6 BASS   RP
+Bassing       GM
+Subwoof 2     DN
+H Bass       WMF
+4 Sine Bass  WMF
+Why TB ?       T
+RingSaw      WMF
+Short Metal  WMF
+Short Notes    T
+p:Machinery  WMF
+SmoothSyncSeqWMF
+Weirdoz        T
+Wood Seq     WMF
+FastSequence WMF
+Nice Day       T
+perSOUND       T
+2nd Background T
+PLUC SEQ  Two   
+Tabla low     RP
+Woods        WMF
+Bottles        T
+Noise        WMF
+Nice Kick    WMF
+Nice Snare   WMF
+Nice Snare 2 WMF
+Nice Hihat   WMF
+Nice Hihat 2 WMF
+Nice Cymbal  WMF
+P&Q           RP
+909 Kick 1   WMF
+ZIP KICK 1    RP
+ZIP KICK 1 -- RP
+M.Wheel PONG  RP
+4 Ur Mind    WMF
+ArpTest      KMP
+Mantra         T
+Boomerang      T
+Angenehm       T
+West Ground    T
+Selbstoszillator
+Zelda          T
+Imperial Code  T
+Into CPU       T
+MCP            T
+experiMENTAL   T
+Starkstrom     T
+Doppeltempo  WMF
+Stenzel's RobotS
+Wavetable    KMP
+Nervous Nuance T
+FM-Test        T
+China Crisis   T
+Ice Drops    WMF
+Da Swiiip    WMF
+Cheap Lead   WMF
+Big Pylo     WMF
+Filter Test 1KMP
+Filter Test 2KMP
+
+
+Multis
+------
+
+Fest Dance    RP
+EEMEBAA       RP
+SOFT PAD      RP
+JO-MAX l      RP
+Wolf-FramE  RP  
+Enid Pong    RP 
+Drum Kitty     1
+Drum Kitty     2
+Mellow Arp   WMF
+Filter Test  KMP

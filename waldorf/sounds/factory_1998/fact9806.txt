@@ -1,0 +1,393 @@
+Microwave II/XT/PC Factory Sounds June 1998	
+
+
+Sound Programs	
+1	Ultra-Wide PAD S
+2	CS-80        WMF
+3	Ping Pad     WMF
+4	A Trip       WMF
+5	Wave Choir   WMF
+6	Arpsono       WD
+7	97 Wave Ride  DN
+8	Acid Lemonade  S
+9	Atmosphere 2  DN
+10	Switch Me    WMF
+11	Underwater MW  S
+12	Formant Guy    S
+13	Freight Night  S
+14	chaOSC         T
+15	R2D2 upset     S
+16	Ammalog      W&W
+17	Noisefloor     S
+18	Clip-n-zip    DN
+19	Paracelsus   WMF
+20	Saw it again WMF
+21	PluckPad      DN
+22	Rhythm Pad   WMF
+23	Phase Lock 1 W&W
+24	Bigballs      DN
+25	BoxStrings   WMF
+26	Unisono      WMF
+27	HP-404         S
+28	Be careful !   T
+29	Q-Wheels RAVE RP
+30	RingArp      WMF
+31	Ben Hur        T
+32	Shape it     WMF
+33	Electro B    WMF
+34	Trash-Box-303  S
+35	TanzBein-303   S
+36	Dork Acid !    S
+37	wArp         WMF
+38	StarP        WMF
+39	Ongaku         T
+40	Talking Arp    T
+41	Roundabout     T
+42	Rhythm Import  T
+43	SO4MA          T
+44	Problems ???   T
+45	Arp Evolution  T
+46	On the Run     T
+47	Ahrtal Express T
+48	Da Mals      WMF
+49	Meisterbussi WMF
+50	<Q)  BASS 2     
+51	WAPE BASE     RP
+52	Tec          WMF
+53	Super Fat    WMF
+54	HolloSound    DN
+55	Syntar       WMF
+56	Ambient       DN
+57	Sqr Keys      WD
+58	SynthFlute   WMF
+59	Classic Solo  WD
+60	Saw Keys     WMF
+61	Rude Spaces   DN
+62	Gow2          DN
+63	Gow3          DN
+64	Cheap Lead   WMF
+65	Sine Lead    WMF
+66	Filter Lead  WMF
+67	Hauchend     WMF
+68	Fat Lead     WMF
+69	Raver's Ride   T
+70	Big Pylo     WMF
+71	PolyMoogy    WMF
+72	Poly Synth   WMF
+73	PolySynth2   WMF
+74	Tom's Brass   TK
+75	Brassy        DN
+76	Synconie 2   WMF
+77	FilterSaw    WMF
+78	KorgySound    DN
+79	CS!           DN
+80	Obie SEM      DN
+81	PluckPad 2    DN
+82	SyndiCat     WMF
+83	PolyTics     WMF
+84	Sirius organ  GB
+85	Sbrass        GB
+86	Blade Runner  GB
+87	Organ Implant  S
+88	Tutench-Amun   T
+89	Contrast       T
+90	Electro Church T
+91	Cassiopeia   WMF
+92	Freq Shifter WMF
+93	FM Keys      WMF
+94	Fuzz Chords  WMF
+95	K E M E L      T
+96	Noogy         DN
+97	Gate Piano   WMF
+98	Waveformer     T
+99	Gow           DN
+100	Sidebands     DN
+101	Lotus Flower  GB
+102	"Cat Inch ""N""   T"
+103	Newton       WMF
+104	PhasingClavi WMF
+105	Overdrive PlkWMF
+106	PPG Plucked  WMF
+107	Sync Keys 1   WD
+108	Ring Pluck   WMF
+109	Spell: P P G!WMF
+110	PPG Vibes    WMF
+111	Gibran        GB
+112	Clipar        WD
+113	Stuttgart    WMF
+114	Fantasted    WMF
+115	Reverbed     WMF
+116	Texture2      DN
+117	Subtitles    WMF
+118	D Bells      WMF
+119	Baligong      DN
+120	MWave2 Bells WMF
+121	VeloBell      DN
+122	Bali          DN
+123	Crisdrum      GB
+124	Airy Pad      DN
+125	Single Trig PadS
+126	HollowSquare WMF
+127	Oxy Rhythm   WMF
+128	Wavetrack 1  WMF
+129	Hemd aus !!!   T
+130	Da Gyls        T
+131	Sarafina       T
+132	Pad          WMF
+133	Ocean        WMF
+134	Oww!          DN
+135	Bland         DN
+136	Full Moon      T
+137	DistoPad     WMF
+138	Quiet Earth    T
+139	Deep Sync    WMF
+140	Everlast       T
+141	SawPWM Str   WMF
+142	Pulpad        DN
+143	DoubleSine   WMF
+144	Space Night    T
+145	Artificial     T
+146	FallingAngel WMF
+147	Microsweep I  GB
+148	Always Ultra   T
+149	Fase  PAD     RP
+150	Good old Times T
+151	Da Swiiip    WMF
+152	Jupiter      WMF
+153	Carpet        GB
+154	Fat Pad      WMF
+155	WarmPad       DN
+156	Solina       WMF
+157	JX10P StringsWMF
+158	Primitive Pad  S
+159	SOFT PAD I    RP
+160	SOFT PAD II   RP
+161	Stenzel's Chor S
+162	Hmmm Pad     WMF
+163	Female Choir WMF
+164	MelloChoir   WMF
+165	Vocode 'em   WMF
+166	Plain Choir  WMF
+167	Rezzz         DN
+168	Hmxpad        DN
+169	Wavepad       DN
+170	Doi!          DN
+171	Deep Spaces   DN
+172	Organic Wave   T
+173	Texture       DN
+174	Plastochinon   T
+175	Harmonicsweep DN
+176	Phasey        DN
+177	Dusty Drone   DN
+178	Bad UFO 1     DN
+179	Phase Swell  WMF
+180	Come In      WMF
+181	Bottled Toys   S
+182	HP Laserjet    S
+183	HP R'us        S
+184	Hi Pads      WMF
+185	Moon Bass     GB
+186	Pulse Bass   WMF
+187	It's Acid !    T
+188	Moog's Bass  WMF
+189	Subwoof       DN
+190	B-Asskick      T
+191	Disco Bass   WMF
+192	SPY 923Bass  DN
+193	Phunk that !   T
+194	Jarre Bass   WMF
+195	More Mogue    DN
+196	Bass Line  1 WMF
+197	Moog Source   DN
+198	Moog 1        DN
+199	Hollow Bass  WMF
+200	RudefuzzBass  DN
+201	12dB Acid    WMF
+202	18dB Acid    WMF
+203	Trigger Bass WMF
+204	JUNO-6 BASS   RP
+205	Bassing       GM
+206	4 Sine Bass  WMF
+207	Why TB ?       T
+208	RingSaw      WMF
+209	Short Metal  WMF
+210	Short Notes    T
+211	p:Machinery  WMF
+212	SmoothSyncSeqWMF
+213	Weirdoz        T
+214	Wood Seq     WMF
+215	FastSequence WMF
+216	Nice Day       T
+217	perSOUND       T
+218	PLUC SEQ  Two   
+219	Tabla low     RP
+220	Woods        WMF
+221	Bottles        T
+222	Noise        WMF
+223	Nice Kick    WMF
+224	Nice Snare   WMF
+225	Nice Snare 2 WMF
+226	Nice Hihat   WMF
+227	Nice Hihat 2 WMF
+228	Nice Cymbal  WMF
+229	P&Q           RP
+230	909 Kick 1   WMF
+231	ZIP KICK 1    RP
+232	ZIP KICK 1 -- RP
+233	M.Wheel PONG  RP
+234	Block&Clave  WMF
+235	Snare Claps  WMF
+236	4 Ur Mind    WMF
+237	Ice Drops    WMF
+238	Boomerang      T
+239	Angenehm       T
+240	Zelda          T
+241	Imperial Code  T
+242	Into CPU       T
+243	MCP            T
+244	experiMENTAL   T
+245	Doppeltempo  WMF
+246	Stenzel's RobotS
+247	China Crisis   T
+248	Nervous Nuance T
+249	FM-Test        T
+250	Cut+Res     WMF 
+251	Clinics      WMF
+252	Super Fat    WMF
+253	P&Q           RP
+254	Pulse Bass   WMF
+255	Mantra         T
+256	LetTheLFOPlayWMF
+
+
+
+Multi Programs	
+
+1	Fest Dance    RP
+2	EEMEBAA       RP
+3	SOFT PAD      RP
+4	JO-MAX l      RP
+5	Wolf-FramE    RP
+6	Enid Pong     RP
+7	Drum Kitty 1  RP
+8	Drum Kitty 2  RP
+9	Mellow Arp   WMF
+10	Bad Guy      WMF
+11	Digidamdoo   WMF
+12	Kimono       WMF
+13	Kimono 6/8   WMF
+14	Init Multi V1.0 
+15	Init Multi V1.0 
+16	Init Multi V1.0 
+17	Init Multi V1.0 
+18	Init Multi V1.0 
+19	Init Multi V1.0 
+20	Init Multi V1.0 
+21	Init Multi V1.0 
+22	Init Multi V1.0 
+23	Init Multi V1.0 
+24	Init Multi V1.0 
+25	Init Multi V1.0 
+26	Init Multi V1.0 
+27	Init Multi V1.0 
+28	Init Multi V1.0 
+29	Init Multi V1.0 
+30	Init Multi V1.0 
+31	Init Multi V1.0 
+32	Init Multi V1.0 
+33	Init Multi V1.0 
+34	Init Multi V1.0 
+35	Init Multi V1.0 
+36	Init Multi V1.0 
+37	Init Multi V1.0 
+38	Init Multi V1.0 
+39	Init Multi V1.0 
+40	Init Multi V1.0 
+41	Init Multi V1.0 
+42	Init Multi V1.0 
+43	Init Multi V1.0 
+44	Init Multi V1.0 
+45	Init Multi V1.0 
+46	Init Multi V1.0 
+47	Init Multi V1.0 
+48	Init Multi V1.0 
+49	Init Multi V1.0 
+50	Init Multi V1.0 
+51	Init Multi V1.0 
+52	Init Multi V1.0 
+53	Init Multi V1.0 
+54	Init Multi V1.0 
+55	Init Multi V1.0 
+56	Init Multi V1.0 
+57	Init Multi V1.0 
+58	Init Multi V1.0 
+59	Init Multi V1.0 
+60	Init Multi V1.0 
+61	Init Multi V1.0 
+62	Init Multi V1.0 
+63	Init Multi V1.0 
+64	Init Multi V1.0 
+65	Init Multi V1.0 
+66	Init Multi V1.0 
+67	Init Multi V1.0 
+68	Init Multi V1.0 
+69	Init Multi V1.0 
+70	Init Multi V1.0 
+71	Init Multi V1.0 
+72	Init Multi V1.0 
+73	Init Multi V1.0 
+74	Init Multi V1.0 
+75	Init Multi V1.0 
+76	Init Multi V1.0 
+77	Init Multi V1.0 
+78	Init Multi V1.0 
+79	Init Multi V1.0 
+80	Init Multi V1.0 
+81	Init Multi V1.0 
+82	Init Multi V1.0 
+83	Init Multi V1.0 
+84	Init Multi V1.0 
+85	Init Multi V1.0 
+86	Init Multi V1.0 
+87	Init Multi V1.0 
+88	Init Multi V1.0 
+89	Init Multi V1.0 
+90	Init Multi V1.0 
+91	Init Multi V1.0 
+92	Init Multi V1.0 
+93	Init Multi V1.0 
+94	Init Multi V1.0 
+95	Init Multi V1.0 
+96	Init Multi V1.0 
+97	Init Multi V1.0 
+98	Init Multi V1.0 
+99	Init Multi V1.0 
+100	Init Multi V1.0 
+101	Init Multi V1.0 
+102	Init Multi V1.0 
+103	Init Multi V1.0 
+104	Init Multi V1.0 
+105	Init Multi V1.0 
+106	Init Multi V1.0 
+107	Init Multi V1.0 
+108	Init Multi V1.0 
+109	Init Multi V1.0 
+110	Init Multi V1.0 
+111	Init Multi V1.0 
+112	Init Multi V1.0 
+113	Init Multi V1.0 
+114	Init Multi V1.0 
+115	Init Multi V1.0 
+116	Init Multi V1.0 
+117	Init Multi V1.0 
+118	Init Multi V1.0 
+119	Init Multi V1.0 
+120	Init Multi V1.0 
+121	Init Multi V1.0 
+122	Init Multi V1.0 
+123	Init Multi V1.0 
+124	Init Multi V1.0 
+125	Init Multi V1.0 
+126	Init Multi V1.0 
+127	Init Multi V1.0 
+128	MIDI Multi   WMF

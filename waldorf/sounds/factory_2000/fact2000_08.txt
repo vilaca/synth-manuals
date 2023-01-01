@@ -1,0 +1,301 @@
+Microwave II/XT/Xtk/PC Factory Sounds August 2000
+The sound-programmers:
+
+WMF	Wolfram Franke
+T	Holger "Tsching" Steinbrink
+S	Stefan Stenzel
+DK	Dirk Krause
+JH	Joerg Huettner
+MK	Matthias Klag
+PN	Paul Nagle
+HM	Hubertus Maaß
+SKY	Christian Halten
+LAB	Philip Pilgrim
+W&W	Wolfgang Dueren & Wolfram Franke
+GB	Giovanni
+DN	Drew Neumann
+
+Sound Programs	
+
+CS-80      T&WMF	Sound	A001
+Wave-Premiere  T	Sound	A002
+Geegaagook   WMF	Sound	A003
+Syncron        T	Sound	A004
+Drooo-like     S	Sound	A005
+NotchSyncArp WMF	Sound	A006
+Scary Vibes   DK	Sound	A007
+Red DanceBass JH	Sound	A008
+JP8 Preset32  DK	Sound	A009
+Oxy Rhythm2  WMF	Sound	A010
+Quintage Lead MK	Sound	A011
+SawPWM Str   WMF	Sound	A012
+HiPassenger  WMF	Sound	A013
+Plain Choir  WMF	Sound	A014
+Flutter FM   WMF	Sound	A015
+Paracel Farce PN	Sound	A016
+RingmodBellPadMK	Sound	A017
+Space Farfisa DK	Sound	A018
+Clinics      WMF	Sound	A019
+Shivering Pad MK	Sound	A020
+Hammin'custom HM	Sound	A021
+Outer Space  SKY	Sound	A022
+Paracelsus   WMF	Sound	A023
+80sSynthpop   HM	Sound	A024
+Batz           T	Sound	A025
+Mode II      WMF	Sound	A026
+A Split Second T	Sound	A027
+Crime of PPG  DK	Sound	A028
+Super Fat    WMF	Sound	A029
+Detunes      LAB	Sound	A030
+MW SyncShaper JH	Sound	A031
+Excited Ping  HM	Sound	A032
+Foney PPG 2   PN	Sound	A033
+Synth-Horns   HM	Sound	A034
+Woody Brass  WMF	Sound	A035
+Freakshow     JH	Sound	A036
+Hammin'05     HM	Sound	A037
+Hammin'06     HM	Sound	A038
+Welcome LA    HM	Sound	A039
+Isn't it nice? T	Sound	A040
+It's My Life! JH	Sound	A041
+Jabbah       WMF	Sound	A042
+Meet her...   MK	Sound	A043
+LoveParade2000 T	Sound	A044
+My SeQuen Sah!PN	Sound	A045
+In Coma       HM	Sound	A046
+Alien Nation  DK	Sound	A047
+Fat Sync Hit WMF	Sound	A048
+Phase Lock 1 W&W	Sound	A049
+Phat Sync     MK	Sound	A050
+Ping Pad     WMF	Sound	A051
+PPG Vibes     HM	Sound	A052
+PPG 2000 eq   JH	Sound	A053
+PPG Plucked  WMF	Sound	A054
+Sbrass        GB	Sound	A055
+Seq          LAB	Sound	A056
+Aquanaut      HM	Sound	A057
+Siegerland     T	Sound	A058
+ARP Trig1*    DK	Sound	A059
+Saw Repeat   WMF	Sound	A060
+Talking Arp    T	Sound	A061
+Groove Wheel  DK	Sound	A062
+Arp Glide      T	Sound	A063
+Arpeggio 1    HM	Sound	A064
+Arpeggio 2    HM	Sound	A065
+Arpeggio 3    HM	Sound	A066
+Da Mals      WMF	Sound	A067
+Mono->Tone     T	Sound	A068
+AnalogArpeggio T	Sound	A069
+Ongaku         T	Sound	A070
+Problems ???   T	Sound	A071
+wArp         WMF	Sound	A072
+Drowning       T	Sound	A073
+Voodoo 2002  SKY	Sound	A074
+JX10P StringsWMF	Sound	A075
+Wave: Doom    JH	Sound	A076
+Introducing MW T	Sound	A077
+Beelay Pad    DK	Sound	A078
+Bold         LAB	Sound	A079
+ChrystalQuest HM	Sound	A080
+Dark Times    JH	Sound	A081
+DoubleFilter WMF	Sound	A082
+MW1 Flange   WMF	Sound	A083
+Oblivion      HM	Sound	A084
+Big Baby Vox  JH	Sound	A085
+Sweep Me     WMF	Sound	A086
+Synconie 2   WMF	Sound	A087
+Fellini       DK	Sound	A088
+Paracel Farce3PN	Sound	A089
+Waldstr. 7     T	Sound	A090
+Rude Pad      DK	Sound	A091
+Waste Land    HM	Sound	A092
+AnalogStrings  T	Sound	A093
+Solina       WMF	Sound	A094
+Stenzel's Chor S	Sound	A095
+PadigreePal    T	Sound	A096
+Texture2      DK	Sound	A097
+Taurus        HM	Sound	A098
+Saw Keys     WMF	Sound	A099
+Big Pylo     WMF	Sound	A100
+ChorusLead 3  JH	Sound	A101
+Pulse Lead    HM	Sound	A102
+ClassicalSync HM	Sound	A103
+Creamy S      PN	Sound	A104
+Creamy Sq     PN	Sound	A105
+Reso Brass    HM	Sound	A106
+Elephant      JH	Sound	A107
+FatDistort   WMF	Sound	A108
+Fat(mono)ThangMK	Sound	A109
+Melodies 3    HM	Sound	A110
+RaveDaWorld  WMF	Sound	A111
+Creamy B      PN	Sound	A112
+BP DrySequenz JH	Sound	A113
+Unimono       JH	Sound	A114
+Classic FM     T	Sound	A115
+DX Thang      PN	Sound	A116
+FM Keys      WMF	Sound	A117
+FM-Rhodes2    HM	Sound	A118
+Fully FMed   WMF	Sound	A119
+Glas Atmo    DK		Sound	A120
+Doi!          DN	Sound	A121
+Wheel Wave    DK	Sound	A122
+Dakommse      HM	Sound	A123
+Wavegold     SKY	Sound	A124
+Lt. Ripley    JH	Sound	A125
+TotalTransform T	Sound	A126
+Weird        LAB	Sound	A127
+It's Over    LAB	Sound	A128
+18dB Acid    WMF	Sound	B001
+80's Melody   JH	Sound	B002
+FatBass      WMF	Sound	B003
+First Bass    MK	Sound	B004
+Tightly 2     PN	Sound	B005
+Hollow Bass  WMF	Sound	B006
+Hopped Bass  WMF	Sound	B007
+KicksYourFace JH	Sound	B008
+Xpander       JH	Sound	B009
+ResoSinX Bass JH	Sound	B010
+VeloHouse SQU MK	Sound	B011
+Moog 1        DN	Sound	B012
+Moog's Bass  WMF	Sound	B013
+Neena!         T	Sound	B014
+Woofer Bass   HM	Sound	B015
+Play it again  T	Sound	B016
+Pulse Bass   WMF	Sound	B017
+Push Bass     JH	Sound	B018
+SH5  Bass     DK	Sound	B019
+SH5+101 Bass  DK	Sound	B020
+Doom PizzicatoDK	Sound	B021
+Dirty Bass   WMF	Sound	B022
+FilterFMBass WMF	Sound	B023
+Smart Hook    JH	Sound	B024
+BP Saw Bass   JH	Sound	B025
+Cable Bass    HM	Sound	B026
+Sync Bass     HM	Sound	B027
+Polaris       DK	Sound	B028
+Paraphonic    DK	Sound	B029
+Primitive Pad  S	Sound	B030
+Prophetess    HM	Sound	B031
+Mud Strings  WMF	Sound	B032
+Single Trig PadS	Sound	B033
+WarmPad       DN	Sound	B034
+Creamy        PN	Sound	B035
+MiceKing       T	Sound	B036
+SoundtrackMW WMF	Sound	B037
+Wave Choir   WMF	Sound	B038
+Ambient MW   SKY	Sound	B039
+Fat Pad      WMF	Sound	B040
+Intro Sweep   JH	Sound	B041
+Hi-Pass Vox   DK	Sound	B042
+Surge         PN	Sound	B043
+NiceRichSoundLAB	Sound	B044
+The Flesh      T	Sound	B045
+TranceSylvaniaHM	Sound	B046
+VibratoWave  LAB	Sound	B047
+Backbone      HM	Sound	B048
+Bouncey      LAB	Sound	B049
+Oxy Rhythm   WMF	Sound	B050
+Adrianna     LAB	Sound	B051
+Hammin'07     HM	Sound	B052
+Wurlitzer    LAB	Sound	B053
+Sacral Stops  HM	Sound	B054
+Chew  It      PN	Sound	B055
+VoxContinentalHM	Sound	B056
+Reverbed     WMF	Sound	B057
+Organ Implant  S	Sound	B058
+Synthiano     HM	Sound	B059
+TiredOldEdgar PN	Sound	B060
+No   floor    PN	Sound	B061
+Euro Trumpet WMF	Sound	B062
+SynthTrombone MK	Sound	B063
+PolySynth2   WMF	Sound	B064
+Sharp Section HM	Sound	B065
+Phat         WMF	Sound	B066
+Fit for Fun    T	Sound	B067
+Phunk that !   T	Sound	B068
+Phase Swell  WMF	Sound	B069
+Foney PPG     PN	Sound	B070
+Queegle       PN	Sound	B071
+Overdrive PlkWMF	Sound	B072
+Quite Sweet   PN	Sound	B073
+Hired Hand    PN	Sound	B074
+Evosonic       T	Sound	B075
+Resosphere    JH	Sound	B076
+Shakey       LAB	Sound	B077
+Smoothy      LAB	Sound	B078
+Stratotron XT HM	Sound	B079
+Volvox         T	Sound	B080
+SyndiCat     WMF	Sound	B081
+Kitaro'sSweetyPN	Sound	B082
+ChineseWALDORF T	Sound	B083
+Raumzeit     SKY	Sound	B084
+DolbyDigital  MK	Sound	B085
+Stromchor     JH	Sound	B086
+Space Night   DK	Sound	B087
+Oceana       LAB	Sound	B088
+chaOSC         T	Sound	B089
+Dijeridoo     MK	Sound	B090
+Cordoba        T	Sound	B091
+Deep Spaces   DN	Sound	B092
+Kaputt        DK	Sound	B093
+Fast Forward  MK	Sound	B094
+MCP            T	Sound	B095
+Into CPU       T	Sound	B096
+Sputnik      LAB	Sound	B097
+R2D2 upset     S	Sound	B098
+Jarre Swish  WMF	Sound	B099
+AitinyJaNein SKY	Sound	B100
+Stranger      PN	Sound	B101
+West Ground    T	Sound	B102
+Dr Phibes     PN	Sound	B103
+Hitchkock`99  HM	Sound	B104
+Ice Drops    WMF	Sound	B105
+Thin Drips   WMF	Sound	B106
+Strom        WMF	Sound	B107
+Be careful !   T	Sound	B108
+ZIP KICK 1    RP	Sound	B109
+909 Kick 1   WMF	Sound	B110
+Kicker!!!!!  LAB	Sound	B111
+BassDrum       T	Sound	B112
+PacManKick     T	Sound	B113
+PitchedSnare WMF	Sound	B114
+SimmonsSnare WMF	Sound	B115
+Metal Snare  WMF	Sound	B116
+FM Snare     WMF	Sound	B117
+BP Claps     WMF	Sound	B118
+HiHatMachine   T	Sound	B119
+FM Hihat     WMF	Sound	B120
+Hat          WMF	Sound	B121
+Noisy Hihat  WMF	Sound	B122
+UnisonoHiHats MK	Sound	B123
+NativePercussnHM	Sound	B124
+Conga        WMF	Sound	B125
+Elec Flutter WMF	Sound	B126
+ElectroPerc  WMF	Sound	B127
+Init Sound V1.1		Sound	B128
+
+Multi Programs	
+
+Wild Micro    JH	Multi	001
+XTc for fun!   T	Multi	002
+Dance 2000    JH	Multi	003
+Slow Motion    T	Multi	004
+Playpeggiator JH	Multi	005
+Tran-Ceti      T	Multi	006
+Left Rhythm   JH	Multi	007
+Dreamcast     JH	Multi	008
+ARPracadabra   T	Multi	009
+Back To 80s 1 JH	Multi	010
+Ayers Rock     T	Multi	011
+Speed Up      JH	Multi	012
+Hau ruck!      T	Multi	013
+Superpad      JH	Multi	014
+Constellation  T	Multi	015
+At the Movies  T	Multi	016
+Wonderland    JH	Multi	017
+Himalaya       T	Multi	018
+Ambituos      JH	Multi	019
+Pad'n'Organ   JH	Multi	020
+Cpt. Kaos      T	Multi	021
+Jan Hammer    JH	Multi	022
+Sequencer Multi		Multi	023

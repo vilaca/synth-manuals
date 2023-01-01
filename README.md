@@ -1,6 +1,10 @@
 # Synth manuals
 
-Synthesizer, mixer, fx manuals
+Synthesizer, mixer, fx, manuals
+
+
+![Awesome studio gear](gear-photo.jpg)
+
 
 [Access](../../tree/master/access/),
 [Alesis](../../tree/master/alesis/),
@@ -16,7 +20,7 @@ Synthesizer, mixer, fx manuals
 [Novation](../../tree/master/novation/),
 [Roland](../../tree/master/roland/),
 [Symetrix](../../tree/master/symetrix/),
-[Thermionic Culture](../../tree/master/thermionic-culture/)
+[Thermionic Culture](../../tree/master/thermionic-culture/),
 [Waldorf](../../tree/master/waldorf/)
 
 ## Connections

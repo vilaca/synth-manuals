@@ -13,8 +13,6 @@ Synthesizer, mixer, fx, manuals
 [DBX](../../tree/master/dbx/),
 [Drawmer](../../tree/master/drawmer/),
 [Elektron](../../tree/master/elektron/),
-[DBX](../../tree/master/dbx/),
-[Drawmer](../../tree/master/drawmer/),
 [Empirical Labs](../../tree/master/empirical-labs/),
 [Eventide](../../tree/master/eventide/),
 [FMR](../../tree/master/fmr/),
